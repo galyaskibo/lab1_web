@@ -1,0 +1,21 @@
+
+.tg
+{
+    fill: #6c757d;
+}
+.git
+{
+    fill: #6c757d;
+}
+.tg:hover
+{
+    fill: #ffc107;
+}
+.git:hover{
+    fill: #ffc107;
+}
+
+.indicator.active
+{
+    opacity: 50%;
+}
